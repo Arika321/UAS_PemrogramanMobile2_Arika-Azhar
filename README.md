@@ -31,36 +31,23 @@ Project ini dibuat untuk memenuhi **Tugas UAS** dengan ketentuan:
 - Transaksi setoran sampah
 - Riwayat transaksi
 - Halaman About (statis)
-- Animasi sederhana (bonus)
+  
 
 ---
 
 ## 📄 Halaman Aplikasi
-1. Splash Screen (Statis)
-2. Login (Dinamis)
-3. Register (Dinamis)
-4. Dashboard (Dinamis)
-5. Data Sampah (Dinamis – Mock API)
-6. Transaksi Setoran (Dinamis)
-7. Riwayat Transaksi (Dinamis)
-8. About Aplikasi (Statis)
+1. Splash Screen 
+2. Login 
+3. Register
+4. Dashboard 
+5. Data Sampah 
+6. Transaksi Setoran 
+7. Riwayat Transaksi 
+8. About Aplikasi 
 
----
+--
 
-## 🛠️ Teknologi
-- Framework: Flutter
-- Database: Firebase Firestore
-- Authentication: Firebase Auth
-- REST API: Mock REST API (JSON)
-- Deployment Web: Netlify / Vercel
-- Deployment Mobile: Android APK
 
----
-
-## 🚀 Cara Menjalankan Project
-```bash
-flutter pub get
-flutter run
 
 ## 📲 Platform & Teknologi
 - Platform: Android & iOS
@@ -68,6 +55,10 @@ flutter run
 - Backend API: Laravel / Node.js
 - Database: MySQL / PostgreSQL
 - Authentication: Firebase Auth / JWT
+- Framework: Flutter
+-  Deployment Web: Netlify / Vercel
+- Deployment Mobile: Android APK
+
 
 ---
 
@@ -79,12 +70,6 @@ flutter run
 
 ---
 
-## 📈 Rencana Pengembangan
-- Fitur belanja bahan masakan
-- Integrasi pembayaran digital
-- Mode offline
-- Multi-bahasa
-- Rekomendasi berbasis AI
 
 ---
 
