@@ -1,87 +1,66 @@
 # UAS_PemrogramanMobile2_Arika-Azhar
 
-# 🍽️ ResepKita
-### Mobile Smart Culinary Application
+# ♻️ MallSampah
+### Sistem Informasi Bank Sampah Berbasis Mobile & Web
 
-ResepKita adalah aplikasi mobile berbasis Android dan iOS yang dirancang untuk membantu pengguna menemukan, memasak, dan mengelola resep makanan secara praktis, interaktif, dan personal. Aplikasi ini mengintegrasikan resep makanan digital, rekomendasi menu cerdas, serta dukungan UMKM kuliner lokal dalam satu platform.
+MallSampah adalah aplikasi Sistem Informasi Bank Sampah berbasis **Flutter** yang bertujuan untuk
+mendigitalisasi pengelolaan bank sampah, mulai dari pencatatan data sampah, transaksi setoran,
+hingga monitoring saldo tabungan nasabah secara **efisien, transparan, dan terintegrasi**.
 
----
-
-## 🍳 Latar Belakang
-Kuliner merupakan bagian penting dari kehidupan sehari-hari dan budaya masyarakat. Namun, masih banyak pengguna yang mengalami kendala seperti:
-
-- Informasi resep yang tersebar di berbagai sumber
-- Sulit menemukan resep sesuai bahan yang tersedia
-- Tidak adanya panduan memasak yang terstruktur
-- Kurangnya promosi UMKM kuliner lokal
-- Minimnya rekomendasi menu berdasarkan preferensi pengguna
-
-ResepKita hadir sebagai solusi **Smart Culinary Application** yang mendukung transformasi digital dalam dunia kuliner.
+Project ini dibuat untuk memenuhi **Tugas UAS** dengan ketentuan:
+- Menggunakan REST API (Mock API)
+- Menggunakan Firebase
+- Minimal 7 halaman
+- Terdapat halaman dinamis dan statis
+- Deploy APK dan Web Hosting
 
 ---
 
-## 🎯 Tujuan Aplikasi
-- Menyediakan resep makanan secara terintegrasi
-- Membantu pengguna memasak dengan panduan yang mudah dipahami
-- Memberikan rekomendasi menu berdasarkan preferensi pengguna
-- Mendukung promosi UMKM kuliner lokal
-- Meningkatkan pengalaman memasak secara digital
+## 🎯 Tujuan
+- Mempermudah pengelolaan data bank sampah
+- Mencatat transaksi setoran sampah secara digital
+- Menampilkan saldo dan riwayat transaksi nasabah
+- Mendukung digitalisasi pengelolaan lingkungan
 
 ---
 
 ## ⭐ Fitur Utama
-
-### 🔍 Eksplorasi Resep Makanan
-- Resep Nusantara dan internasional
-- Detail resep (bahan, langkah, waktu, tingkat kesulitan)
-- Gambar dan video tutorial
-- Rating dan ulasan pengguna
-
-### 🧠 Rekomendasi Resep Cerdas
-Rekomendasi berdasarkan:
-- Bahan yang tersedia
-- Riwayat pencarian
-- Preferensi pengguna
-- Waktu memasak
-
-### 📝 Panduan Memasak Interaktif
-- Langkah memasak bertahap
-- Timer memasak
-- Checklist bahan
-- Mode memasak praktis
-
-### ❤️ Favorit & Koleksi
-- Simpan resep favorit
-- Riwayat resep yang pernah dimasak
-
-### 🛍️ UMKM Kuliner
-- Profil UMKM kuliner
-- Resep unggulan UMKM
-- Kontak dan lokasi usaha
-
-### 👤 Manajemen Akun
-- Registrasi dan login pengguna
-- Profil pengguna
-- Preferensi makanan
+- Login & Register pengguna
+- Dashboard ringkasan data
+- Manajemen data sampah (Mock REST API)
+- Transaksi setoran sampah
+- Riwayat transaksi
+- Halaman About (statis)
+- Animasi sederhana (bonus)
 
 ---
 
-## 🛠️ Panel Admin
-- Manajemen data resep
-- Manajemen UMKM
-- Moderasi ulasan
-- Monitoring aktivitas pengguna
+## 📄 Halaman Aplikasi
+1. Splash Screen (Statis)
+2. Login (Dinamis)
+3. Register (Dinamis)
+4. Dashboard (Dinamis)
+5. Data Sampah (Dinamis – Mock API)
+6. Transaksi Setoran (Dinamis)
+7. Riwayat Transaksi (Dinamis)
+8. About Aplikasi (Statis)
 
 ---
 
-## 👥 Target Pengguna
-- Masyarakat umum
-- Ibu rumah tangga
-- Pelajar dan mahasiswa
-- Pecinta kuliner
-- UMKM kuliner lokal
+## 🛠️ Teknologi
+- Framework: Flutter
+- Database: Firebase Firestore
+- Authentication: Firebase Auth
+- REST API: Mock REST API (JSON)
+- Deployment Web: Netlify / Vercel
+- Deployment Mobile: Android APK
 
 ---
+
+## 🚀 Cara Menjalankan Project
+```bash
+flutter pub get
+flutter run
 
 ## 📲 Platform & Teknologi
 - Platform: Android & iOS
