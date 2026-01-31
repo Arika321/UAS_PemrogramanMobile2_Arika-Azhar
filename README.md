@@ -1,28 +1,11 @@
-# toko_dodol
+#  Dodol Asgar
 
-A new Flutter project.
+## UAS Pemrograman Mobile2
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-
-## UAS Pemrograman Mobile  2
-
--- Tugas Akhir Mata Kuliah Pemrograman Mobile
--- Nama Mahasiswa : Arika Azhar
--- NIM : 23552011408
--- Program Studi : Teknik Informatika
--- Tahun : 2025
+# -- Tugas Akhir Mata Kuliah Pemrograman Mobile
+* -- Nama Mahasiswa : Arika Azhar
+* -- NIM : 23552011408
+* -- Program Studi : Teknik Informatika 
 
 
 ## Deskripsi Aplikasi
@@ -59,6 +42,36 @@ Aplikasi ini dibuat sebagai bagian dari Tugas Akhir mata kuliah Pemrograman Mobi
 
 - Supabase – Backend (Authentication & Database)
 
-- Material Design – UI Components
+--
+
+  A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
 
 - Visual Studio Code – Code Editor
