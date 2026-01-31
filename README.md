@@ -1,8 +1,8 @@
 #  Dodol Asgar
 
-## UAS Pemrograman Mobile2
+## Ujian Akhir Semester Pemrograman Mobile2
 
-# -- Tugas Akhir Mata Kuliah Pemrograman Mobile
+# Mata Kuliah Pemrograman Mobile
 * -- Nama Mahasiswa : Arika Azhar
 * -- NIM : 23552011408
 * -- Program Studi : Teknik Informatika 
