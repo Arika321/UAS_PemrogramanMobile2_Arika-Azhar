@@ -16,10 +16,11 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-## Integrated Dining Experience App
+## UAS Pemrograman Mobile  2
+
 -- Tugas Akhir Mata Kuliah Pemrograman Mobile
--- Nama Mahasiswa : Sheila Nur Hamidah
--- NIM : 23552011398
+-- Nama Mahasiswa : Arika Azhar
+-- NIM : 23552011408
 -- Program Studi : Teknik Informatika
 -- Tahun : 2025
 
