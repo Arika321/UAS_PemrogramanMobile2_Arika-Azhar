@@ -1,75 +1,63 @@
-# UAS_PemrogramanMobile2_Arika-Azhar
+# toko_dodol
 
-# ♻️ MallSampah
-### Sistem Informasi Bank Sampah Berbasis Mobile & Web
+A new Flutter project.
 
-MallSampah adalah aplikasi Sistem Informasi Bank Sampah berbasis **Flutter** yang bertujuan untuk
-mendigitalisasi pengelolaan bank sampah, mulai dari pencatatan data sampah, transaksi setoran,
-hingga monitoring saldo tabungan nasabah secara **efisien, transparan, dan terintegrasi**.
+## Getting Started
 
----
+This project is a starting point for a Flutter application.
 
-## 🎯 Tujuan
-- Mempermudah pengelolaan data bank sampah
-- Mencatat transaksi setoran sampah secara digital
-- Menampilkan saldo dan riwayat transaksi nasabah
-- Mendukung digitalisasi pengelolaan lingkungan
+A few resources to get you started if this is your first Flutter project:
 
----
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
+
+## Integrated Dining Experience App
+-- Tugas Akhir Mata Kuliah Pemrograman Mobile
+-- Nama Mahasiswa : Sheila Nur Hamidah
+-- NIM : 23552011398
+-- Program Studi : Teknik Informatika
+-- Tahun : 2025
+
+
+## Deskripsi Aplikasi
+
+Toko Dodol App adalah aplikasi mobile berbasis Flutter yang digunakan untuk menampilkan dan menjual berbagai macam produk dodol tradisional Indonesia. Aplikasi ini memungkinkan pengguna untuk melihat daftar produk dodol, mencari produk, melihat detail produk, menambahkan produk ke keranjang, serta melakukan proses pemesanan secara sederhana.
+
+Aplikasi ini terintegrasi dengan Supabase sebagai backend untuk autentikasi pengguna dan pengelolaan data, sehingga pengguna dapat melakukan login, register, dan menyimpan data secara aman.
+
+Aplikasi ini dibuat sebagai bagian dari Tugas Akhir mata kuliah Pemrograman Mobil
 
 ## Fitur Utama
-- Login & Register pengguna
-- Dashboard ringkasan data
-- Manajemen data sampah
-- Transaksi setoran sampah
-- Riwayat transaksi
-- Halaman About
-  
 
----
+- Login & Register Pengguna
 
-##  Halaman Aplikasi
-1. Splash Screen 
-2. Login 
-3. Register
-4. Dashboard 
-5. Data Sampah 
-6. Transaksi Setoran 
-7. Riwayat Transaksi 
-8. About Aplikasi 
+- Halaman Home Menampilkan Produk Dodol
 
---
+- Pencarian Produk
 
+- Filter Produk Berdasarkan Kategori
 
+- Detail Produk
 
-## Platform & Teknologi
-- Platform: Android & iOS
-- Framework: Flutter / React Native
-- Backend API: Laravel / Node.js
-- Database: MySQL / PostgreSQL
-- Authentication: Firebase Auth / JWT
-- Framework: Flutter
--  Deployment Web: Netlify / Vercel
-- Deployment Mobile: Android APK
+- Menampilkan Total Harga
 
+- Halaman Profil Pengguna
 
----
+- Logout
 
-##  Keamanan & Privasi
-- Autentikasi pengguna
-- Manajemen hak akses berbasis role
-- Validasi dan sanitasi data
-- Perlindungan data pribadi pengguna
+  ## Teknologi yang Digunakan
 
----
+- Flutter – Framework pengembangan aplikasi mobile
 
----
+- Dart – Bahasa pemrograman utama
 
-## 📄 Lisensi
-Proyek ini menggunakan **MIT License**.
+- Supabase – Backend (Authentication & Database)
 
----
+- Material Design – UI Components
 
-## 📞 Kontak
-Pengembang: Arika Azhar  
-GitHub: https://github.com/username
+- Visual Studio Code – Code Editor
