@@ -18,10 +18,10 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Integrated Dining Experience App
 Tugas Akhir Mata Kuliah Pemrograman Mobile
-Nama Mahasiswa : Sheila Nur Hamidah
-NIM : 23552011398
+Nama Mahasiswa : Arika Azhar
+NIM : 23552011408
 Program Studi : Teknik Informatika
-Tahun : 2025
+
 
 
 ## Deskripsi Aplikasi
