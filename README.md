@@ -46,28 +46,34 @@ Aplikasi ini dibuat sebagai bagian dari Tugas Akhir mata kuliah Pemrograman Mobi
 
 ## 🛠️ Teknologi yang Digunakan
 
-Flutter – Framework pengembangan aplikasi mobile
+-- Flutter – Framework pengembangan aplikasi mobile
 
-Dart – Bahasa pemrograman utama
+-- Dart – Bahasa pemrograman utama
 
-Supabase – Backend (Authentication & Database)
+-- Supabase – Backend (Authentication & Database)
 
-Material Design – UI Components
+-- Backend & Auth: Firebase Authentication
 
-Visual Studio Code – Code Editor
+-- Database: Mock API (Realtime Storage)
+
+-- Material Design – UI Components
+
+-- Visual Studio Code – Code Editor
 
 # ⚙️ Cara Menjalankan Aplikasi
-A. Instalasi di HP Android (Cara Termudah)
-Buka Link Download APK di atas melalui HP Android kamu.
-Download file bernama app-release.apk.
-Buka file tersebut di HP, lalu klik Install.
-Jika muncul peringatan "Install from unknown source", izinkan saja karena aplikasi ini dibuat sendiri dan belum masuk Play Store.
-Aplikasi siap digunakan secara mandiri di HP tanpa perlu laptop.
-B. Menjalankan di Lokal (Development Mode)
-Clone Repo: git clone https://github.com/Lisarynt/App_PFT.git
-Install Packages: flutter pub get
-Setup Database: Pastikan endpoint Mock API sudah terpasang di dalam service aplikasi.
-Run: flutter run
+
+  A. Instalasi di HP Android (Cara Termudah)
+      Buka Link Download APK di atas melalui HP Android kamu.
+      Download file bernama app-release.apk.
+      Buka file tersebut di HP, lalu klik Install.
+      Jika muncul peringatan "Install from unknown source", izinkan saja karena aplikasi ini dibuat sendiri dan belum masuk Play Store.
+      Aplikasi siap digunakan secara mandiri di HP tanpa perlu laptop
+      
+ B. Menjalankan di Lokal (Development Mode)
+     Clone Repo: git clone https://github.com/Arika321/UAS_PemrogramanMobile2_Arika-Azhar.git
+     Install Packages: flutter pub get
+     Setup Database: Pastikan endpoint Mock API sudah terpasang di dalam service aplikasi.
+     Run: flutter run
 
 
 
