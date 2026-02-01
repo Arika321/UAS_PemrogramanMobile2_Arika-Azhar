@@ -1,6 +1,4 @@
-## 🛍️ Toko Dodol App
-
-Ujian Akhir Semester  Mata Kuliah Pemrograman Mobile
+## Ujian Akhir Semester  Mata Kuliah Pemrograman Mobile
 
 Nama Mahasiswa : Arika Azhar
 NIM : 23552011408
@@ -11,6 +9,7 @@ Tahun : 2025
 
 ** Belanja Dodol Khas Garut dengan Mudah, Cepat, dan Praktis
     Flutter • Dart • Local Storage • Web & Android
+    
 
 # 📌 Deskripsi Aplikasi
 
@@ -18,10 +17,15 @@ Toko Dodol App adalah aplikasi mobile berbasis Flutter yang digunakan untuk mena
 
 Aplikasi ini terintegrasi dengan Supabase sebagai backend untuk autentikasi pengguna dan pengelolaan data, sehingga pengguna dapat melakukan login, register, dan menyimpan data secara aman.
 
+
+## 🎯 Tujuan Project
+
+Membuat aplikasi penjualan dodol online sebagai media pembelajaran Flutter serta simulasi aplikasi e-commerce sederhana.
+
 Aplikasi ini dibuat sebagai bagian dari Tugas Akhir mata kuliah Pemrograman Mobile.
 
-# 📱 Fitur Utama DodolKu
- ✨ Fitur Utama
+
+## 📱 Fitur Utama DodolKu
 
 🔐 Login dan Register Pengguna
 
@@ -38,6 +42,8 @@ Aplikasi ini dibuat sebagai bagian dari Tugas Akhir mata kuliah Pemrograman Mobi
 🧾 Checkout / Pemesanan
 
 🚪 Logout Pengguna
+
+
 ## 🛠️ Teknologi yang Digunakan
 
 Flutter – Framework pengembangan aplikasi mobile
@@ -50,27 +56,6 @@ Material Design – UI Components
 
 Visual Studio Code – Code Editor
 
-
-▶️ Cara Menjalankan Aplikasi
-
-Clone repository:
-
-git clone https://github.com/username/toko_dodol.git
-
-
-Masuk ke folder project:
-
-cd toko_dodol
-
-
-Install dependency:
-
-flutter pub get
-
-
-Jalankan aplikasi:
-
-flutter run
 
 
 
