@@ -62,3 +62,13 @@ Aplikasi ini mengintegrasikan **Supabase** sebagai backend utama untuk manajemen
 1. **Clone Repo**
    ```bash
    git clone [https://github.com/Arika321/UAS_PemrogramanMobile2_Arika-Azhar.git](https://github.com/Arika321/UAS_PemrogramanMobile2_Arika-Azhar.git)
+
+2. **Install Dependencies**
+    ```Bash
+    flutter pub get
+     Setup Database Pastikan konfigurasi API Key dan Endpoint (Supabase/Mock API) sudah sesuai pada file service.
+
+**Run Application**
+
+   ```Bash
+      flutter run
