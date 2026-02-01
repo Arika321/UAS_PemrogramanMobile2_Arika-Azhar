@@ -1,17 +1,17 @@
-## Ujian Akhir Semester  Mata Kuliah Pemrograman Mobile
+# Ujian Akhir Semester  Mata Kuliah Pemrograman Mobile
 
 Nama Mahasiswa : Arika Azhar
 NIM : 23552011408
 Program Studi : Teknik Informatika
 Tahun : 2025
 
-## 🍬 DodolKu – Aplikasi Penjualan Dodol Online
+# 🍬 DodolKu – Aplikasi Penjualan Dodol Online
 
 ** Belanja Dodol Khas Garut dengan Mudah, Cepat, dan Praktis
     Flutter • Dart • Local Storage • Web & Android
     
 
-# 📌 Deskripsi Aplikasi
+## 📌 Deskripsi Aplikasi
 
 Toko Dodol App adalah aplikasi mobile berbasis Flutter yang digunakan untuk menampilkan dan menjual berbagai macam produk dodol tradisional Indonesia. Aplikasi ini memungkinkan pengguna untuk melihat daftar produk dodol, mencari produk, melihat detail produk, menambahkan produk ke keranjang, serta melakukan proses pemesanan secara sederhana.
 
