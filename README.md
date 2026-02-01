@@ -5,7 +5,7 @@ NIM : 23552011408
 Program Studi : Teknik Informatika
 Tahun : 2025
 
-# 🍬 DodolKu – Aplikasi Penjualan Dodol Online
+## 🍬 DodolKu – Aplikasi Penjualan Dodol Online
 
 ** Belanja Dodol Khas Garut dengan Mudah, Cepat, dan Praktis
     Flutter • Dart • Local Storage • Web & Android
@@ -55,6 +55,19 @@ Supabase – Backend (Authentication & Database)
 Material Design – UI Components
 
 Visual Studio Code – Code Editor
+
+# ⚙️ Cara Menjalankan Aplikasi
+A. Instalasi di HP Android (Cara Termudah)
+Buka Link Download APK di atas melalui HP Android kamu.
+Download file bernama app-release.apk.
+Buka file tersebut di HP, lalu klik Install.
+Jika muncul peringatan "Install from unknown source", izinkan saja karena aplikasi ini dibuat sendiri dan belum masuk Play Store.
+Aplikasi siap digunakan secara mandiri di HP tanpa perlu laptop.
+B. Menjalankan di Lokal (Development Mode)
+Clone Repo: git clone https://github.com/Lisarynt/App_PFT.git
+Install Packages: flutter pub get
+Setup Database: Pastikan endpoint Mock API sudah terpasang di dalam service aplikasi.
+Run: flutter run
 
 
 
