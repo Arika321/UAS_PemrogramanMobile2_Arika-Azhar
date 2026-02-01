@@ -1,9 +1,9 @@
 # Ujian Akhir Semester  Mata Kuliah Pemrograman Mobile
 
-Nama Mahasiswa : Arika Azhar
-NIM : 23552011408
-Program Studi : Teknik Informatika
-Tahun : 2025
+- Nama Mahasiswa : Arika Azhar
+- NIM : 23552011408
+- Program Studi : Teknik Informatika
+- Tahun : 2025
 
 ## 🍬 DodolKu – Aplikasi Penjualan Dodol Online
 
