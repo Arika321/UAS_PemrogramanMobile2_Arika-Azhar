@@ -9,6 +9,11 @@ Aplikasi ini dikembangkan sebagai syarat pemenuhan nilai Ujian Akhir Semester pa
 * **Tahun** : 2025
 
 ---
+#  Link DeMo
+
+https://drive.google.com/drive/folders/1Bekj3OdRwJImXDLT9FeJrYcWgbEUSSyqhttps://drive.google.com/drive/folders/1Bekj3OdRwJImXDLT9FeJrYcWgbEUSSyq
+
+---
 
 ## 🍬 DodolKu – Aplikasi Penjualan Dodol Online
 **"Belanja Dodol Khas Garut dengan Mudah, Cepat, dan Praktis"**
