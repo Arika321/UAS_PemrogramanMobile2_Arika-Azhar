@@ -42,11 +42,7 @@ Aplikasi ini mengintegrasikan **Supabase** sebagai backend utama untuk manajemen
 - Studi Kasus : Aplikasi penjualan didik online
 
 
---
-## 📝 Catatan
-
-Project ini dibuat untuk memenuhi tugas Ujian Akhir Semester mata kuliah Pemrograman Mobil
-
+---
 
 ## 📱 Fitur Utama
 * 🔐 **Login & Register**: Sistem autentikasi pengguna via Supabase.
@@ -72,12 +68,6 @@ Project ini dibuat untuk memenuhi tugas Ujian Akhir Semester mata kuliah Pemrogr
 
 ---
 
-## 📝 Catatan
-
-Project ini dibuat untuk memenuhi tugas Ujian Akhir Semester mata kuliah Pemrograman Mobile1
-Segala bentuk pengembangan lanjutan dapat dilakukan sesuai kebutuhan.
-
----
 
 ## 📝 Catatan
 
