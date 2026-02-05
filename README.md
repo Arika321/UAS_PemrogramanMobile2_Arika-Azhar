@@ -33,6 +33,139 @@ Aplikasi ini mengintegrasikan **Supabase** sebagai backend utama untuk manajemen
 * Simulasi alur transaksi dari pemilihan produk hingga checkout.
 * Memenuhi Tugas Akhir mata kuliah Pemrograman Mobile.
 
+## 📚 Informasi Project
+
+- Mata Kuliah : Pemrograman Mobile2  
+- Dosen Pengampu : Muhammad Ikhwan Fatulloh, S. Kom. 
+- Jenis Project : Ujian Akhir Semester  
+- Metode Pengerjaan : Individu  
+- Studi Kasus : )
+
+
+---
+
+## 🗂 Struktur Folder Utama
+
+```
+```
+toko_dodol/
+│
+├── android/
+├── ios/
+├── web/
+├── windows/
+├── linux/
+├── macos/
+│
+├── assets/
+│   └── images/
+│       ├── dodol1.png
+│       ├── dodol2.png
+│       ├── dodol3.png
+│       ├── ...
+│       └── dodol20.png
+│
+├── lib/
+│   │
+│   ├── main.dart
+│   │
+│   ├── models/
+│   │   └── product_model.dart
+│   │
+│   ├── services/
+│   │   └── product_service.dart
+│   │
+│   ├── widgets/
+│   │   └── product_card.dart
+│   │
+│   └── screens/
+│       ├── login_page.dart
+│       ├── register_page.dart
+│       ├── home_page.dart
+│       ├── home_shell.dart
+│       ├── cart_page.dart
+│       ├── checkout_page.dart
+│       ├── receipt_page.dart
+│       ├── order_history_page.dart
+│       ├── store_page.dart   (halaman lokasi)
+│       └── profile_page.dart
+│
+├── pubspec.yaml
+└── README.md
+
+
+## 📝 Catatan
+
+Project ini dibuat untuk memenuhi tugas Ujian Akhir Semester mata kuliah Pemrograman Mobile1
+Segala bentuk pengembangan lanjutan dapat dilakukan sesuai kebutuhan.
+
+---
+
+## 📜 Lisensi
+
+MIT License  
+© 2026 Dodolku## 📚 Informasi Project
+
+- Mata Kuliah : Pemrograman Mobile2  
+- Dosen Pengampu : Muhammad Ikhwan Fatulloh, S. Kom. 
+- Jenis Project : Ujian Akhir Semester  
+- Metode Pengerjaan : Individu  
+- Studi Kasus : )
+
+
+---
+
+## 🗂 Struktur Folder Utama
+
+```
+```
+toko_dodol/
+│
+├── android/
+├── ios/
+├── web/
+├── windows/
+├── linux/
+├── macos/
+│
+├── assets/
+│   └── images/
+│       ├── dodol1.png
+│       ├── dodol2.png
+│       ├── dodol3.png
+│       ├── ...
+│       └── dodol20.png
+│
+├── lib/
+│   │
+│   ├── main.dart
+│   │
+│   ├── models/
+│   │   └── product_model.dart
+│   │
+│   ├── services/
+│   │   └── product_service.dart
+│   │
+│   ├── widgets/
+│   │   └── product_card.dart
+│   │
+│   └── screens/
+│       ├── login_page.dart
+│       ├── register_page.dart
+│       ├── home_page.dart
+│       ├── home_shell.dart
+│       ├── cart_page.dart
+│       ├── checkout_page.dart
+│       ├── receipt_page.dart
+│       ├── order_history_page.dart
+│       ├── store_page.dart   (halaman lokasi)
+│       └── profile_page.dart
+│
+├── pubspec.yaml
+└── README.md
+
+
+
 ## 📱 Fitur Utama
 * 🔐 **Login & Register**: Sistem autentikasi pengguna via Supabase.
 * 📋 **Daftar Produk**: Katalog menu dodol yang informatif.
@@ -77,3 +210,25 @@ Aplikasi ini mengintegrasikan **Supabase** sebagai backend utama untuk manajemen
 
    ```Bash
       flutter run
+-- 
+## 📝 Catatan
+
+Project ini dibuat untuk memenuhi tugas Ujian Akhir Semester mata kuliah Pemrograman Mobile1
+Segala bentuk pengembangan lanjutan dapat dilakukan sesuai kebutuhan.
+
+---
+
+## 📜 Lisensi
+
+MIT License  
+© 2026 Dodolku## 📝 Catatan
+
+Project ini dibuat untuk memenuhi tugas Ujian Akhir Semester mata kuliah Pemrograman Mobile1
+Segala bentuk pengembangan lanjutan dapat dilakukan sesuai kebutuhan.
+
+---
+
+## 📜 Lisensi
+
+MIT License  
+© 2026 Dodolku
