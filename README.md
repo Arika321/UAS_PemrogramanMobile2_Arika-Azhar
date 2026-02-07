@@ -8,10 +8,6 @@ Aplikasi ini dikembangkan sebagai syarat pemenuhan nilai Ujian Akhir Semester pa
 * **Program Studi** : Teknik Informatika
 * **Tahun** : 2025
 
----
-#  Link DeMo
-
-https://drive.google.com/drive/folders/1Bekj3OdRwJImXDLT9FeJrYcWgbEUSSyqhttps://drive.google.com/drive/folders/1Bekj3OdRwJImXDLT9FeJrYcWgbEUSSyq
 
 ---
 
